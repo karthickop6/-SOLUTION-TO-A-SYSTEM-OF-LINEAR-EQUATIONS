@@ -25,7 +25,7 @@ sol = np.linalg.solve(A,B)
 print(sol)
 ```
 ## Output:
-![output](./12.png)
+![output](./Screenshot%20from%202022-12-29%2015-52-26.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
